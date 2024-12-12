@@ -34,12 +34,6 @@ Classificação do movimento: [Resultado]
 ## Objetivo Geral
 Este projeto tem como objetivo principal gerar um módulo **opensource** que visa reduzir o custo computacional de modelos de **LLMs** e soluções **Text-to-Speech** aplicadas inicialmente à narração de partidas de xadrez. Posteriormente, pretende-se expandir o uso para diversas áreas potenciais.
 
-## Objetivo Acadêmico
-Este projeto foi concebido para demonstrar habilidades adquiridas durante a graduação, incluindo:
-- Desenvolvimento de software com boas práticas de engenharia
-- Integração com APIs externas
-- Implementação de classes abstratas e reutilizáveis
-
 ## Autor
 - **João Ícaro Moreira**
 - Graduando em Ciência da Computação - Universidade Federal do Ceará (UFC)
