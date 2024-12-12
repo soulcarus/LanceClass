@@ -44,5 +44,8 @@ Este projeto foi concebido para demonstrar habilidades adquiridas durante a grad
 - **João Ícaro Moreira**
 - Graduando em Ciência da Computação - Universidade Federal do Ceará (UFC)
 
+## Considerações
+A estrutura de pastas desse projeto foi baseada no trabalho realizado pelos desenvolvedores do módulo [aisuite](https://github.com/andrewyng/aisuite), agradeço aos desenvolvedores por suas contribuições à comunidade que resultaram na inspiração pra essa metodologia de funcionamento.
+
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo **LICENSE** para mais detalhes.
